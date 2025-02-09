@@ -33,7 +33,7 @@ st.markdown(
 )
 
 # Add a company logo
-st.image("C:/Users/vpshc/Downloads/KF.png", width=600)
+st.image("KF.png", width=600)
 
 # Set the title of the app
 st.title("Fuel Price Estimate")
